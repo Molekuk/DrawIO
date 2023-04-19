@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T09:17:52.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.2.806 Yowser/2.5 Safari/537.36" version="20.6.0" etag="231jRqVdMPI5ZXoaqRbA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T09:18:06.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.2.806 Yowser/2.5 Safari/537.36" version="20.6.0" etag="SdPUJ_PfFdIYrDSk0d1o" type="github">
   <diagram id="jZFZSMegm6beznA44UZG" name="Страница 1">
     <mxGraphModel dx="2178" dy="986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,10 +10,10 @@
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-3" value="Шнур" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-32" y="823" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-ObI3ja5nDpz2vfm1fv-12" value="Электродвигатель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m-ObI3ja5nDpz2vfm1fv-12" value="Электродвигатель" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="389.5" y="498" width="220" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="m-ObI3ja5nDpz2vfm1fv-27" value="" style="group;fontSize=19;" vertex="1" connectable="0" parent="1">
+        <mxCell id="m-ObI3ja5nDpz2vfm1fv-27" value="" style="group;fontSize=14;fontStyle=0" vertex="1" connectable="0" parent="1">
           <mxGeometry x="328.5" y="281" width="342" height="136" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-24" value="Система управления" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-27">
@@ -52,7 +52,7 @@
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-5" value="Щеткодержатели" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-29">
           <mxGeometry x="198" y="130.39175257731958" width="120" height="63.09278350515464" as="geometry" />
         </mxCell>
-        <mxCell id="m-ObI3ja5nDpz2vfm1fv-35" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="m-ObI3ja5nDpz2vfm1fv-35" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="692" y="498" width="482" height="125" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-34" value="Система передачи движения" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-35">
