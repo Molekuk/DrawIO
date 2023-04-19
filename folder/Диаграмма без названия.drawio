@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T09:17:31.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.2.806 Yowser/2.5 Safari/537.36" version="20.6.0" etag="ufxeV9228VkNjRi-ci_j" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T09:17:41.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.2.806 Yowser/2.5 Safari/537.36" version="20.6.0" etag="xW-ZioP9Dd4kBFyCCi_U" type="github">
   <diagram id="jZFZSMegm6beznA44UZG" name="Страница 1">
     <mxGraphModel dx="2178" dy="986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,31 +26,31 @@
           <mxGeometry x="201" y="51" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="241.5" y="699" width="349" height="194" as="geometry" />
+          <mxGeometry x="241.5" y="692" width="349" height="204" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-28" value="Система электропитания" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-29">
-          <mxGeometry width="349" height="194" as="geometry" />
+          <mxGeometry width="349" height="204" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-6" value="Коллектор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-29">
-          <mxGeometry x="198" y="31" width="120" height="60" as="geometry" />
+          <mxGeometry x="198" y="32.597938144329895" width="120" height="63.09278350515464" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="m-ObI3ja5nDpz2vfm1fv-29" source="m-ObI3ja5nDpz2vfm1fv-7" target="m-ObI3ja5nDpz2vfm1fv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-7" value="Подшипник" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-29">
-          <mxGeometry x="17" y="31" width="120" height="60" as="geometry" />
+          <mxGeometry x="17" y="32.597938144329895" width="120" height="63.09278350515464" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="m-ObI3ja5nDpz2vfm1fv-29" source="m-ObI3ja5nDpz2vfm1fv-2" target="m-ObI3ja5nDpz2vfm1fv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-2" value="Кнопка пуска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-29">
-          <mxGeometry x="17" y="124" width="120" height="60" as="geometry" />
+          <mxGeometry x="17" y="130.39175257731958" width="120" height="63.09278350515464" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="m-ObI3ja5nDpz2vfm1fv-29" source="m-ObI3ja5nDpz2vfm1fv-5" target="m-ObI3ja5nDpz2vfm1fv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-5" value="Щеткодержатели" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m-ObI3ja5nDpz2vfm1fv-29">
-          <mxGeometry x="198" y="124" width="120" height="60" as="geometry" />
+          <mxGeometry x="198" y="130.39175257731958" width="120" height="63.09278350515464" as="geometry" />
         </mxCell>
         <mxCell id="m-ObI3ja5nDpz2vfm1fv-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="692" y="498" width="482" height="125" as="geometry" />
